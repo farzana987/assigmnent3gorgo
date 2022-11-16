@@ -1,0 +1,104 @@
+
+
+@media(max-width: 768px){
+
+
+
+.navbar{
+	display: inline-block;
+}
+
+.menu ul li{
+	margin-left: 30px;
+	display:block;
+}
+
+.navbar-btn {
+padding: 8px 10px;
+font-weight: 500;
+margin-left: 20px;
+
+}
+
+
+.magazine{
+margin: 100px 0;
+}
+
+.magazine-content{
+display:block;
+}
+
+.part-1 h1{
+margin: 10px 0;
+font-size: 20px;
+margin-left: 20px;
+}
+
+.part-1 p{
+font-size: 12px;
+margin-left: 20px;
+}
+
+.demo{
+	margin: 100px 0;
+}
+.our-demo h2{
+	text-align: left;
+	margin-left: 20px;
+}
+
+
+.our-demo p{
+	text-align: left;
+	margin-left: 20px;
+}
+
+
+.demo-image{
+	display: inline-block;
+}
+
+
+.features-content-B{
+	display: inline-block;
+}
+
+.features-content-A h2{
+	text-align: left;
+	margin-left: 20px;
+}
+.features-content-A p{
+	text-align: left;
+	margin-left: 20px;
+}
+
+
+.footer{
+	text-align: left;
+}
+
+.footer h1 {
+	text-align: left;
+	margin-left: 50px;
+	font-size: 20px;
+}
+
+.footer-btn{
+padding: 10px 15px;
+margin-left: 50px;
+
+}
+.footer-img{
+text-align: left;
+margin-left: 50px;
+
+}
+.footer-i{
+margin-left: 1550px;
+color: #bbb4b4;;
+font-size: 22px;
+}
+
+	
+}
